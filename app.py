@@ -10,7 +10,7 @@ HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mini ShatterChat</title>
+    <title>anonymous</title>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -155,7 +155,7 @@ HTML_TEMPLATE = """
 <body>
 
 <header>
-    ✨ShatterChat
+    anonymous
     <button id="logoutBtn" onclick="logout()" style="
         position:absolute;
         right:15px;
