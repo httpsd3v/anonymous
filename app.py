@@ -175,6 +175,7 @@ HTML_TEMPLATE = """
 <div id="auth">
     <input type="text" id="username" placeholder="Username">
     <input type="password" id="password" placeholder="Password">
+    <button onclick="register()" id="Register">Register</button>
     <button onclick="login()" id="Login">Login</button>
 </div>
 
