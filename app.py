@@ -19,7 +19,7 @@ HTML_TEMPLATE = """
         body {
             margin: 0;
             font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-            background: url("https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") no-repeat center center fixed;
+            background: url("https://media.istockphoto.com/id/1926718805/photo/coding-background-application-development-and-code-programming-technology-business-computers.jpg?s=612x612&w=0&k=20&c=Adyq4shdpFm4L0-avguqt5RntG6VBNNw4PCJ_Y4h5OU=") no-repeat center center fixed;
             background-size: cover;
             color: white;
             display: flex;
